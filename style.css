@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.intestazione {
+    background-color: #0C2D57;
+}
+
+.logo {
+    width: 300px;
+    padding: 20px 30px;
+}
+
+.titolo {
+    text-align: center;
+    margin: 30px 0px;
+}
+
+.contatto {
+    text-decoration: none;
+}
+
+.foto_lee {
+    display: flex;
+    justify-content: center;
+}
+
+.foto_1 {
+    margin-right: 25px;
+    margin-top: 25px;
+}
+
+.foto_2 {
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.referenza {
+    margin: 25px;
+}
+
+.post {
+    margin-left: 25px;
+    width: 750px;
+    line-height: 25px;
+}
+
+ul, li {
+    margin: 25px;
+    line-height: 25px;
+    width: 500px;
+}
+
+tr, th {
+    width: 350px;
+    height: 50px;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+    background-color: #0C2D57;
+    color: white;
+}
+
+h3 {
+    margin-left: 25px;
+}
+
+.testo_centrato {
+    text-align: center;  
+    text-transform: uppercase;
+    font-weight: 700; 
+}
+
+.flex_footer {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 25px;
+}
